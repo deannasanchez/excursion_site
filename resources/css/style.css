@@ -16,14 +16,24 @@ h2 {
 }
 
 .phone {
-    width: 100%;
-    align-items: center;
+    width: 300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 a {
     color: turquoise;
+    font-family: serif;
+    font-size: medium;
+    font-weight: 500;
 }
 
-img {
-    align-items: center;
+.camp {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
+
